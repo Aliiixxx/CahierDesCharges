@@ -1,0 +1,35 @@
+body{
+    align-items: center;
+    border: 2px solid black;
+    width: 75%;
+    display: flex;
+    margin-left: 12.5%;
+    flex-direction: column;
+    padding: 2%;
+   
+}
+
+h2{
+    color: #F5895D;
+}
+
+header{
+    display: flex;
+    color:  #77B099;
+    background-color: #F6A447;
+    width: 100%;
+    justify-content: center;
+}
+
+footer{
+    background-color: #F6A447;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+#Signatures{
+    display: flex;
+    height: 150px;
+    justify-content: space-between;
+}
